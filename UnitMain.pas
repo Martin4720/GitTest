@@ -12,6 +12,7 @@ type
     btnAction: TButton;
     NetHTTPClient1: TNetHTTPClient;
     NetHTTPRequest1: TNetHTTPRequest;
+    Button1: TButton;
     procedure btnActionClick(Sender: TObject);
   private
     { Private declarations }
